@@ -4,7 +4,7 @@ import exceptions.WrongLoginException;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) throws WrongLoginException {
-        Validator.validate("java_skypro_go_приветооисовимиоиоимовиомиомвом", "D_1hWiKjjP_9", "D_1hWiKjjP_9");
+        Validator.validate("java_skypro_go", "D_1hWiKjjP_9_hbhbhb", "D_1hWiKjjP_9");
 
     }
 }
